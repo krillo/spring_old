@@ -7,10 +7,6 @@
   <body>
     <div>
       <h1>Spring!</h1>
-
-
     </div>
   </body>
 </html>
-
-
