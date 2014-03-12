@@ -96,19 +96,66 @@ $startTime = "{$days}:{$hours}:{$minutes}:{$seconds}";
 <div class="container">
 	<div class="row clearfix">
 		<div class="col-md-12 column">
-      Logga
+      <div id="header-image">
+        <img src="./img/logo.png" />
+      </div>
+		</div>
+	</div>
+  <div class="row clearfix">
+    <div class="col-md-12 column">
+      <div id="header-subtitle">
+        <img src="./img/subtitle.png" />
+      </div>
+    </div>
+  </div>
+  <div class="row clearfix">
+    <div class="col-md-12 column">
+      <div id="social-media">
+        <!--social media here-->
+      </div>
+    </div>
+  </div>
+	<div class="row clearfix">
+		<div class="col-md-12 column">
+      <div id="counter-content">
+        <div id="counter"></div> 
+      </div>
 		</div>
 	</div>
 	<div class="row clearfix">
 		<div class="col-md-12 column">
-      <div id="counter" style="height: 77px; overflow: hidden;"></div> 
+      <div id="pren-form">
+        <!--insert form here-->
+      </div>
 		</div>
 	</div>
-	<div class="row clearfix">
-		<div class="col-md-12 column">
-      lite till
-		</div>
-	</div>
+    <div class="row clearfix">
+    <div class="col-md-12 column">
+      <div id="info-box">
+        <div id="info-img">
+          <img src="./img/bg.png" />
+        </div>
+        <div id="info-text">
+          <h1>Chefsredaktören har ordet</h1>
+          <p>
+            När jag startade förlaget Mediavänner i oktober var en viktig ingrediens lust. 
+            Att få jobba med mitt stora intresse löpning inom ramarna för vad bolaget gör är helt 
+            enkelt grymt! Spring är en löpartidning som kommer ge massor av inspiration och löparglädje 
+            till läsarna. Ambitionen är att det ska vara en viktig pusselbit för löparna, att Spring 
+            ska motivera och faktiskt ge ståpäls - Spring ska uppfattas som seriös, passionerad och 
+            grymt motiverande.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="row clearfix">
+    <div class="col-md-12 column">
+      <div id="footer">
+        <img class="footer-img" src="./img/mediavanner-logo.png" />
+      </div>
+    </div>
+  </div>
+  </div>
 </div>
 </body>
 </html>
